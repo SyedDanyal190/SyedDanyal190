@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Danyal 👋
+Full Stack Developer specializing in MERN Stack and TypeScript. I build scalable, high-performance web applications, dashboards, and APIs across domains like e-commerce, finance, crypto, construction, and healthcare.
 
-<!--
-**SyedDanyal190/SyedDanyal190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+MongoDB | Express.js | React.js | Next.js | Node.js | TypeScript | Docker | Microservices | Cloud
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- **Parking & Traffic Dashboard** – Real-time monitoring with analytics and reporting.
+- **E-Commerce Platform** – Full-stack store with authentication, cart, and payments.
+- **Hospital Management System** – Manage patients, billing, inventory, and staff dashboards.
+- **Netflix Clone** – React-based streaming app with optimized performance.
+- **Construction Website** – Responsive frontend with dynamic content.
+- **Crypto Trading Dashboard** – Real-time trading analytics and charts.
+- **Account Management Dashboard** – Finance and account tracking system.
+- **Many More Projects** – Explore my repositories for additional work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: danyaldev65@gmail.com
+
