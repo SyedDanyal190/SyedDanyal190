@@ -14,6 +14,4 @@ MongoDB | Express.js | React.js | Next.js | Node.js | TypeScript | Docker | Micr
 - **Account Management Dashboard** – Finance and account tracking system.
 - **Many More Projects** – Explore my repositories for additional work.
 
-## 📫 Contact
-- Email: danyaldev65@gmail.com
 
