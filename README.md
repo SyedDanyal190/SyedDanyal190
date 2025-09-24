@@ -2,7 +2,7 @@
 Full Stack Developer specializing in MERN Stack and TypeScript. I build scalable, high-performance web applications, dashboards, and APIs across domains like e-commerce, finance, crypto, construction, and healthcare.
 
 ## 🔧 Tech Stack
-MongoDB | Express.js | React.js | Next.js | Node.js | TypeScript | Docker | Microservices | Cloud
+MongoDB | Express.js | React.js | Next.js | Node.js | TypeScript | Docker | Microservices | Cloud | Agile
 
 ## 📌 Featured Projects
 - **Parking & Traffic Dashboard** – Real-time monitoring with analytics and reporting.
