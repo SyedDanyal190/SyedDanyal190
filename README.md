@@ -1,8 +1,10 @@
 # Hi, I'm Muhammad Danyal 👋
-Full Stack Developer specializing in MERN Stack and TypeScript. I build scalable, high-performance web applications, dashboards, and APIs across domains like e-commerce, finance, crypto, construction, and healthcare.
+Full Stack Developer specializing in MERN Stack and TypeScript. I build **scalable**, **high-performance** web and mobile applications with clean architecture, optimized APIs, and modern UI/UX.  
+Passionate about turning ideas into interactive, data-driven products that work seamlessly across platforms.
+
 
 ## 🔧 Tech Stack
-MongoDB | Express.js | React.js | Next.js | Node.js | TypeScript | Docker | Microservices | Cloud | Agile
+React.js | Next.js |React Native  | Node.js | Express.js  | MongoDB | MYsql | postGress  | TypeScript | Docker | Microservices | Cloud | Agile
 
 ## 📌 Featured Projects
 - **Parking & Traffic Dashboard** – Real-time monitoring with analytics and reporting.
@@ -13,5 +15,6 @@ MongoDB | Express.js | React.js | Next.js | Node.js | TypeScript | Docker | Micr
 - **Crypto Trading Dashboard** – Real-time trading analytics and charts.
 - **Account Management Dashboard** – Finance and account tracking system.
 - **Many More Projects** – Explore my repositories for additional work.
+
 
 
